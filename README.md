@@ -7,6 +7,7 @@ Unity 2019.4 or newer.
 It must also be a platform that supports AsyncGPUReadback.
 
 ## How to use
+Copy the Assets/UnityMotionJpeg folder to your project.
 ### AutoRecorder
 This is a script that automatically records the screen. When deployed, it will record from the start, and when finished, it outputs the video file to Application.persistentDataPath.
 ### EndlessRecorder
